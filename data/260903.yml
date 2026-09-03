@@ -1,0 +1,72 @@
+about:
+  description: Apache Flink
+  license: Apache-2.0
+  homepage: https://flink.apache.org/
+  head: 81389ac
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-03T05:01:39Z
+timeline:
+  created: 2014-06-07
+  lastCommit: 2026-09-02
+  lastRelease: ?
+popularity:
+  star: 26324
+  watcher: 901
+  fork: 14019
+  release: 0
+  contributor: 1396
+  pullRequest: 17067
+  issue: 0
+language:
+  Java: 111194448
+  Scala: 9941954
+  Python: 3822891
+  Shell: 563178
+  TypeScript: 493220
+  HiveQL: 398790
+  HTML: 260264
+  Cython: 139307
+  FreeMarker: 102838
+  Less: 101385
+  ANTLR: 20596
+  JavaScript: 7841
+  q: 7546
+  Dockerfile: 6775
+  Makefile: 5660
+  Batchfile: 1863
+  C: 847
+totalLine: 127069403
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 80
+    openPR: 72
+    closedIssue: 0
+    openIssue: 0
+    commit: 91
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 462
+    openPR: 207
+    closedIssue: 0
+    openIssue: 0
+    commit: 425
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 878
+    openPR: 291
+    closedIssue: 0
+    openIssue: 0
+    commit: 846
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 1399
+    openPR: 337
+    closedIssue: 0
+    openIssue: 0
+    commit: 1350
