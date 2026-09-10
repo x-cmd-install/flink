@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:32:22Z
+  collectedAt: 2026-09-10T23:15:43Z
 timeline:
   created: 2014-06-07
   lastCommit: 2026-09-10
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 26328
   watcher: 901
-  fork: 14029
+  fork: 14030
   release: 0
   contributor: 1385
-  pullRequest: 29139
+  pullRequest: 29141
   issue: 0
 language:
   Java: 111565304
@@ -45,7 +45,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 120
-    openPR: 66
+    openPR: 68
     closedIssue: 0
     openIssue: 0
     commit: 131
@@ -53,7 +53,7 @@ recent:
     since: 2026-07-12
     release: 0
     mergedPR: 267
-    openPR: 128
+    openPR: 130
     closedIssue: 0
     openIssue: 0
     commit: 270
@@ -61,7 +61,7 @@ recent:
     since: 2026-06-12
     release: 0
     mergedPR: 471
-    openPR: 199
+    openPR: 201
     closedIssue: 0
     openIssue: 0
     commit: 455
@@ -69,7 +69,7 @@ recent:
     since: 2026-03-14
     release: 0
     mergedPR: 931
-    openPR: 284
+    openPR: 286
     closedIssue: 0
     openIssue: 0
     commit: 896
@@ -77,7 +77,7 @@ recent:
     since: 2025-09-15
     release: 0
     mergedPR: 1448
-    openPR: 325
+    openPR: 327
     closedIssue: 0
     openIssue: 0
     commit: 1393
@@ -85,20 +85,20 @@ recent:
     since: 2024-09-20
     release: 0
     mergedPR: 2597
-    openPR: 357
+    openPR: 359
     closedIssue: 0
     openIssue: 0
     commit: 2623
 total:
   release: 0
   mergedPR: 12061
-  openPR: 363
+  openPR: 365
   closedIssue: 0
   openIssue: 0
   commit: 38464
 ---
 path: /home/runner/.x-repo/github.com/apache/flink
-collectedAt: 2026-09-10T20:33:16Z
+collectedAt: 2026-09-10T23:16:39Z
 loc:
   Java:
     code: 1799006
