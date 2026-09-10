@@ -12,39 +12,17 @@ Apache Flink
 x install flink
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/apache/flink>
-- **Homepage**: <https://flink.apache.org/>
-- **License**: Apache-2.0
-
-## Popularity
-
-- **Stars**: 26,327 · **Forks**: 14,025 · **Open issues**: 0 · **Contributors**: 1,383
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 12047 · **Open PRs**: 377 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38447
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 110 | 73 | 0 | 0 | 114 |
-| 90d | 2026-06-12 | 0 | 459 | 208 | 0 | 0 | 436 |
-| 360d | 2025-09-15 | 0 | 1435 | 338 | 0 | 0 | 1374 |
-
-## Code size
-
-Total: **2,528,280** lines of code across **17243** files in the top 5 languages.
+Total: **2,529,989** lines of code across **17248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,797,911 | 525,976 | 358,078 | 15004 |
-| Scala | 211,517 | 36,139 | 29,779 | 1018 |
-| Xml | 183,680 | 9,736 | 3,783 | 479 |
+| Java | 1,799,006 | 526,173 | 358,216 | 15007 |
+| Scala | 211,540 | 36,162 | 29,778 | 1018 |
+| Xml | 183,469 | 9,736 | 3,783 | 479 |
 | Json | 145,297 | 0 | 2 | 408 |
-| Python | 73,080 | 7,197 | 13,176 | 334 |
+| Python | 73,675 | 7,257 | 13,306 | 336 |
 
 ## OpenSSF Scorecard
 
@@ -56,13 +34,47 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/apache/flink>
+- **Homepage**: <https://flink.apache.org/>
+- **License**: Apache-2.0
+
+## Popularity
+
+- **Stars**: 26,328 · **Forks**: 14,029 · **Open issues**: 0 · **Contributors**: 1,385
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 12061 · **Open PRs**: 363 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38464
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 120 | 66 | 0 | 0 | 131 |
+| last60d | 2026-07-12 | 0 | 267 | 128 | 0 | 0 | 270 |
+| 90d | 2026-06-12 | 0 | 471 | 199 | 0 | 0 | 455 |
+| last180d | 2026-03-14 | 0 | 931 | 284 | 0 | 0 | 896 |
+| 360d | 2025-09-15 | 0 | 1448 | 325 | 0 | 0 | 1393 |
+| last720d | 2024-09-20 | 0 | 2597 | 357 | 0 | 0 | 2623 |
+
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/flink). **3** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.3.0` | ✅ latest |
+| Nix unstable | `2.3.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flink` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/flink.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/flink.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:48:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:33:41Z._
