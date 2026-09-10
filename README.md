@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,328 · **Forks**: 14,029 · **Open issues**: 0 · **Contributors**: 1,385
+- **Stars**: 26,328 · **Forks**: 14,030 · **Open issues**: 0 · **Contributors**: 1,385
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 12061 · **Open PRs**: 363 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38464
+- **Releases**: 0 · **Merged PRs**: 12061 · **Open PRs**: 365 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 120 | 66 | 0 | 0 | 131 |
-| last60d | 2026-07-12 | 0 | 267 | 128 | 0 | 0 | 270 |
-| 90d | 2026-06-12 | 0 | 471 | 199 | 0 | 0 | 455 |
-| last180d | 2026-03-14 | 0 | 931 | 284 | 0 | 0 | 896 |
-| 360d | 2025-09-15 | 0 | 1448 | 325 | 0 | 0 | 1393 |
-| last720d | 2024-09-20 | 0 | 2597 | 357 | 0 | 0 | 2623 |
+| 30d | 2026-08-11 | 0 | 120 | 68 | 0 | 0 | 131 |
+| last60d | 2026-07-12 | 0 | 267 | 130 | 0 | 0 | 270 |
+| 90d | 2026-06-12 | 0 | 471 | 201 | 0 | 0 | 455 |
+| last180d | 2026-03-14 | 0 | 931 | 286 | 0 | 0 | 896 |
+| 360d | 2025-09-15 | 0 | 1448 | 327 | 0 | 0 | 1393 |
+| last720d | 2024-09-20 | 0 | 2597 | 359 | 0 | 0 | 2623 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:33:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:16:48Z._
