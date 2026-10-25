@@ -14,11 +14,11 @@ x install flink
 
 ## Code insight
 
-Total: **2,586,664** lines of code across **17425** files in the top 5 languages.
+Total: **2,587,039** lines of code across **17426** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,830,774 | 532,103 | 362,495 | 15141 |
+| Java | 1,831,172 | 532,150 | 362,548 | 15142 |
 | Scala | 212,466 | 36,290 | 29,859 | 1018 |
 | Xml | 184,849 | 9,842 | 3,790 | 486 |
 | Json | 148,422 | 0 | 2 | 416 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,421 · **Forks**: 14,074 · **Open issues**: 0 · **Contributors**: 1,406
+- **Stars**: 26,424 · **Forks**: 14,075 · **Open issues**: 0 · **Contributors**: 1,406
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 12352 · **Open PRs**: 400 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38704
+- **Releases**: 0 · **Merged PRs**: 12357 · **Open PRs**: 400 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38709
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 157 | 115 | 0 | 0 | 150 |
-| last60d | 2026-08-25 | 0 | 343 | 162 | 0 | 0 | 311 |
-| 90d | 2026-07-26 | 0 | 480 | 200 | 0 | 0 | 436 |
-| last180d | 2026-04-27 | 0 | 1014 | 302 | 0 | 0 | 895 |
-| 360d | 2025-10-29 | 0 | 1603 | 357 | 0 | 0 | 1517 |
-| last720d | 2024-11-03 | 0 | 2718 | 394 | 0 | 0 | 2626 |
+| 30d | 2026-09-25 | 0 | 155 | 111 | 0 | 0 | 120 |
+| last60d | 2026-08-26 | 0 | 342 | 161 | 0 | 0 | 279 |
+| 90d | 2026-07-27 | 0 | 483 | 200 | 0 | 0 | 399 |
+| last180d | 2026-04-28 | 0 | 1013 | 301 | 0 | 0 | 877 |
+| 360d | 2025-10-30 | 0 | 1607 | 357 | 0 | 0 | 1490 |
+| last720d | 2024-11-04 | 0 | 2719 | 394 | 0 | 0 | 2631 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:23:47Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:40:48Z._
