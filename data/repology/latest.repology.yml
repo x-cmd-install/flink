@@ -101,6 +101,52 @@
   summary: framework and distributed processing engine for stateful computations over unbounded and bounded data streams
   licenses:
     - Apache Software License 2.0
+- repo: openeuler_25_03
+  srcname: flink
+  binnames:
+    - flink
+  visiblename: flink
+  version: 1.17.1
+  origversion: 1.17.1-5.oe2503
+  status: outdated
+  summary: Stateful Computations over Data Streams
+  licenses:
+    - Apache License v2.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: spack
+  srcname: flink
+  visiblename: flink
+  version: 1.20.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: aur
+  srcname: apache-flink
+  binname: apache-flink
+  visiblename: apache-flink
+  version: 2.1.0_2.12
+  origversion: 2.1.0_2.12-1
+  status: outdated
+  summary: A framework and distributed processing engine for stateful computations over unbounded and bounded data streams (with Scala)
+  maintainers:
+    - hasanc@aur
+  licenses:
+    - Apache
+  vulnerable: true
+- repo: chocolatey
+  binname: flink
+  visiblename: Apache Flink
+  version: 1.6.4
+  origversion: null
+  status: outdated
+  summary: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams.
+  vulnerable: true
 - repo: nix_stable_24_05
   srcname: flink
   visiblename: flink
@@ -126,27 +172,6 @@
     - mail@autophagy.io
   licenses:
     - Apache-2.0
-  vulnerable: true
-- repo: aur
-  srcname: apache-flink
-  binname: apache-flink
-  visiblename: apache-flink
-  version: 2.1.0_2.12
-  origversion: 2.1.0_2.12-1
-  status: outdated
-  summary: A framework and distributed processing engine for stateful computations over unbounded and bounded data streams (with Scala)
-  maintainers:
-    - hasanc@aur
-  licenses:
-    - Apache
-  vulnerable: true
-- repo: chocolatey
-  binname: flink
-  visiblename: Apache Flink
-  version: 1.6.4
-  origversion: null
-  status: outdated
-  summary: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams.
   vulnerable: true
 - repo: nix_stable_25_05
   srcname: flink
@@ -228,29 +253,4 @@
     - Apache License v2.0
   categories:
     - Unspecified
-  vulnerable: true
-- repo: openeuler_25_03
-  srcname: flink
-  binnames:
-    - flink
-  visiblename: flink
-  version: 1.17.1
-  origversion: 1.17.1-5.oe2503
-  status: outdated
-  summary: Stateful Computations over Data Streams
-  licenses:
-    - Apache License v2.0
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: spack
-  srcname: flink
-  visiblename: flink
-  version: 1.20.0
-  origversion: null
-  status: outdated
-  maintainers:
-    - fallback-mnt-spack@repology
-  licenses:
-    - Apache-2.0
   vulnerable: true
