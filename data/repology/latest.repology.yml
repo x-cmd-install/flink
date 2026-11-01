@@ -27,7 +27,6 @@
   status: newest
   summary: Distributed stream processing framework
   maintainers:
-    - maxbode@gmail.com
     - mail@autophagy.io
   licenses:
     - Apache-2.0
@@ -101,31 +100,6 @@
   summary: framework and distributed processing engine for stateful computations over unbounded and bounded data streams
   licenses:
     - Apache Software License 2.0
-- repo: openeuler_25_03
-  srcname: flink
-  binnames:
-    - flink
-  visiblename: flink
-  version: 1.17.1
-  origversion: 1.17.1-5.oe2503
-  status: outdated
-  summary: Stateful Computations over Data Streams
-  licenses:
-    - Apache License v2.0
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: spack
-  srcname: flink
-  visiblename: flink
-  version: 1.20.0
-  origversion: null
-  status: outdated
-  maintainers:
-    - fallback-mnt-spack@repology
-  licenses:
-    - Apache-2.0
-  vulnerable: true
 - repo: aur
   srcname: apache-flink
   binname: apache-flink
@@ -253,4 +227,29 @@
     - Apache License v2.0
   categories:
     - Unspecified
+  vulnerable: true
+- repo: openeuler_25_03
+  srcname: flink
+  binnames:
+    - flink
+  visiblename: flink
+  version: 1.17.1
+  origversion: 1.17.1-5.oe2503
+  status: outdated
+  summary: Stateful Computations over Data Streams
+  licenses:
+    - Apache License v2.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: spack
+  srcname: flink
+  visiblename: flink
+  version: 1.20.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - Apache-2.0
   vulnerable: true
