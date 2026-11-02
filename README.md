@@ -14,15 +14,15 @@ x install flink
 
 ## Code insight
 
-Total: **2,596,132** lines of code across **17464** files in the top 5 languages.
+Total: **2,596,224** lines of code across **17464** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,837,139 | 533,376 | 363,342 | 15171 |
+| Java | 1,837,192 | 533,382 | 363,351 | 15171 |
 | Scala | 212,665 | 36,314 | 29,870 | 1018 |
 | Xml | 185,175 | 9,844 | 3,787 | 486 |
 | Json | 149,915 | 0 | 2 | 422 |
-| Python | 91,424 | 8,015 | 15,607 | 367 |
+| Python | 91,463 | 8,016 | 15,621 | 367 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,441 · **Forks**: 14,189 · **Open issues**: 0 · **Contributors**: 1,415
+- **Stars**: 26,443 · **Forks**: 14,207 · **Open issues**: 0 · **Contributors**: 1,415
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 12449 · **Open PRs**: 423 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38773
+- **Releases**: 0 · **Merged PRs**: 12455 · **Open PRs**: 432 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 188 | 137 | 0 | 0 | 136 |
-| last60d | 2026-09-02 | 0 | 394 | 194 | 0 | 0 | 302 |
-| 90d | 2026-08-03 | 0 | 516 | 223 | 0 | 0 | 432 |
-| last180d | 2026-05-05 | 0 | 1069 | 323 | 0 | 0 | 918 |
-| 360d | 2025-11-06 | 0 | 1682 | 384 | 0 | 0 | 1530 |
-| last720d | 2024-11-11 | 0 | 2795 | 419 | 0 | 0 | 2672 |
+| 30d | 2026-10-03 | 0 | 194 | 145 | 0 | 0 | 140 |
+| last60d | 2026-09-03 | 0 | 384 | 202 | 0 | 0 | 306 |
+| 90d | 2026-08-04 | 0 | 514 | 231 | 0 | 0 | 436 |
+| last180d | 2026-05-06 | 0 | 1073 | 332 | 0 | 0 | 922 |
+| 360d | 2025-11-07 | 0 | 1682 | 393 | 0 | 0 | 1534 |
+| last720d | 2024-11-12 | 0 | 2797 | 428 | 0 | 0 | 2675 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:04:47Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:00:05Z._
