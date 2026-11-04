@@ -14,13 +14,13 @@ x install flink
 
 ## Code insight
 
-Total: **2,596,268** lines of code across **17464** files in the top 5 languages.
+Total: **2,597,032** lines of code across **17467** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,837,192 | 533,382 | 363,351 | 15171 |
+| Java | 1,837,940 | 533,498 | 363,474 | 15174 |
 | Scala | 212,665 | 36,314 | 29,870 | 1018 |
-| Xml | 185,212 | 9,845 | 3,787 | 486 |
+| Xml | 185,230 | 9,850 | 3,787 | 486 |
 | Json | 149,915 | 0 | 2 | 422 |
 | Python | 91,463 | 8,016 | 15,621 | 367 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,443 · **Forks**: 14,208 · **Open issues**: 0 · **Contributors**: 1,415
+- **Stars**: 26,444 · **Forks**: 14,181 · **Open issues**: 0 · **Contributors**: 1,415
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 12478 · **Open PRs**: 430 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38784
+- **Releases**: 0 · **Merged PRs**: 12492 · **Open PRs**: 429 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38788
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 216 | 144 | 0 | 0 | 147 |
-| last60d | 2026-09-04 | 0 | 400 | 197 | 0 | 0 | 313 |
-| 90d | 2026-08-05 | 0 | 528 | 228 | 0 | 0 | 443 |
-| last180d | 2026-05-07 | 0 | 1092 | 330 | 0 | 0 | 929 |
-| 360d | 2025-11-08 | 0 | 1704 | 390 | 0 | 0 | 1541 |
-| last720d | 2024-11-13 | 0 | 2816 | 426 | 0 | 0 | 2681 |
+| 30d | 2026-10-05 | 0 | 218 | 141 | 0 | 0 | 151 |
+| last60d | 2026-09-05 | 0 | 412 | 195 | 0 | 0 | 317 |
+| 90d | 2026-08-06 | 0 | 538 | 225 | 0 | 0 | 447 |
+| last180d | 2026-05-08 | 0 | 1104 | 329 | 0 | 0 | 933 |
+| 360d | 2025-11-09 | 0 | 1717 | 388 | 0 | 0 | 1545 |
+| last720d | 2024-11-14 | 0 | 2828 | 425 | 0 | 0 | 2682 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:47:49Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:32:51Z._
