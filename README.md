@@ -14,19 +14,19 @@ x install flink
 
 ## Code insight
 
-Total: **2,616,865** lines of code across **17533** files in the top 5 languages.
+Total: **2,623,311** lines of code across **17561** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,851,575 | 535,778 | 364,968 | 15229 |
-| Scala | 213,570 | 36,459 | 29,947 | 1018 |
-| Xml | 186,461 | 9,848 | 3,825 | 487 |
-| Json | 151,218 | 0 | 2 | 431 |
-| Python | 91,784 | 8,046 | 15,675 | 368 |
+| Java | 1,853,777 | 536,810 | 365,310 | 15254 |
+| Scala | 213,613 | 36,469 | 29,959 | 1018 |
+| Xml | 186,902 | 9,848 | 3,825 | 487 |
+| Json | 152,777 | 0 | 2 | 434 |
+| Python | 91,786 | 8,046 | 15,675 | 368 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
@@ -42,22 +42,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,474 · **Forks**: 14,187 · **Open issues**: 0 · **Contributors**: 1,420
+- **Stars**: 26,483 · **Forks**: 14,195 · **Open issues**: 0 · **Contributors**: 1,421
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 12665 · **Open PRs**: 435 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38882
+- **Releases**: 0 · **Merged PRs**: 12696 · **Open PRs**: 435 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 38902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 301 | 147 | 0 | 0 | 176 |
-| last60d | 2026-09-18 | 0 | 496 | 198 | 0 | 0 | 334 |
-| 90d | 2026-08-19 | 0 | 668 | 238 | 0 | 0 | 501 |
-| last180d | 2026-05-21 | 0 | 1211 | 330 | 0 | 0 | 970 |
-| 360d | 2025-11-22 | 0 | 1858 | 392 | 0 | 0 | 1610 |
-| last720d | 2024-11-27 | 0 | 2965 | 431 | 0 | 0 | 2749 |
+| 30d | 2026-10-20 | 0 | 317 | 145 | 0 | 0 | 195 |
+| last60d | 2026-09-20 | 0 | 506 | 197 | 0 | 0 | 353 |
+| 90d | 2026-08-21 | 0 | 691 | 238 | 0 | 0 | 520 |
+| last180d | 2026-05-23 | 0 | 1226 | 331 | 0 | 0 | 990 |
+| 360d | 2025-11-24 | 0 | 1884 | 392 | 0 | 0 | 1630 |
+| last720d | 2024-11-29 | 0 | 2991 | 431 | 0 | 0 | 2763 |
+
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/flink). **3** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.3.0` | ✅ latest |
+| Nix unstable | `2.3.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +77,4 @@ Install metadata for flink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:45:49Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:00:20Z._
