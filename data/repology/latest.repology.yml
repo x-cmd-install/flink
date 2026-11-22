@@ -99,7 +99,7 @@
   status: newest
   summary: framework and distributed processing engine for stateful computations over unbounded and bounded data streams
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
 - repo: aur
   srcname: apache-flink
   binname: apache-flink
