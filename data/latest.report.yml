@@ -2,32 +2,32 @@ about:
   description: "Apache Flink"
   license: Apache-2.0
   homepage: https://flink.apache.org/
-  head: 35330d3
+  head: faf3dae
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:44:41Z
+  collectedAt: 2026-11-28T09:19:25Z
 timeline:
   created: 2014-06-07
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 26501
-  watcher: 896
-  fork: 14133
+  star: 26504
+  watcher: 897
+  fork: 14132
   release: 0
   contributor: 1422
-  pullRequest: 30149
+  pullRequest: 30165
   issue: 0
 language:
-  Java: 115379690
-  Scala: 10076393
+  Java: 114773403
+  Scala: 10078033
   Python: 4876206
   TypeScript: 819150
-  Shell: 575885
+  Shell: 565611
   HiveQL: 400597
   HTML: 268137
   Cython: 140334
@@ -39,87 +39,87 @@ language:
   Dockerfile: 7023
   Makefile: 5760
   Batchfile: 1863
-totalBytes: 132795261
+totalBytes: 132180340
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 331
-    openPR: 149
+    mergedPR: 333
+    openPR: 147
     closedIssue: 0
     openIssue: 0
-    commit: 213
+    commit: 232
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 556
-    openPR: 221
+    mergedPR: 557
+    openPR: 224
     closedIssue: 0
     openIssue: 0
-    commit: 388
+    commit: 409
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 762
-    openPR: 266
+    mergedPR: 771
+    openPR: 269
     closedIssue: 0
     openIssue: 0
-    commit: 558
+    commit: 579
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 1297
-    openPR: 356
+    mergedPR: 1303
+    openPR: 359
     closedIssue: 0
     openIssue: 0
-    commit: 1021
+    commit: 1042
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 1961
-    openPR: 421
+    mergedPR: 1965
+    openPR: 424
     closedIssue: 0
     openIssue: 0
-    commit: 1681
+    commit: 1702
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 3058
-    openPR: 457
+    mergedPR: 3068
+    openPR: 460
     closedIssue: 0
     openIssue: 0
-    commit: 2795
+    commit: 2816
 total:
   release: 0
-  mergedPR: 12798
-  openPR: 462
+  mergedPR: 12810
+  openPR: 464
   closedIssue: 0
   openIssue: 0
-  commit: 38971
+  commit: 38992
 ---
 path: /home/runner/.x-repo/github.com/apache/flink
-collectedAt: 2026-11-27T09:45:36Z
+collectedAt: 2026-11-28T09:20:20Z
 loc:
   Java:
-    code: 1861593
-    comments: 538497
-    blanks: 366190
-    files: 15298
+    code: 1852339
+    comments: 534923
+    blanks: 363918
+    files: 15209
   Scala:
-    code: 213906
-    comments: 36529
-    blanks: 29989
+    code: 213936
+    comments: 36532
+    blanks: 29994
     files: 1015
   Xml:
-    code: 188797
-    comments: 9885
-    blanks: 3826
-    files: 489
+    code: 188574
+    comments: 9800
+    blanks: 3782
+    files: 485
   Json:
-    code: 153097
+    code: 153555
     comments: 0
     blanks: 2
-    files: 436
+    files: 437
   Python:
     code: 92108
     comments: 8084
@@ -146,10 +146,10 @@ loc:
     blanks: 2531
     files: 236
   Sh:
-    code: 8995
-    comments: 4014
-    blanks: 2429
-    files: 141
+    code: 8862
+    comments: 3917
+    blanks: 2383
+    files: 138
   Q:
     code: 8329
     comments: 2
@@ -247,8 +247,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 110359
-    blanks: 35989
+    comments: 110355
+    blanks: 35987
     files: 885
   Text:
     code: 0
@@ -256,10 +256,10 @@ loc:
     blanks: 401
     files: 99
 total:
-  code: 2676143
-  comments: 732018
-  blanks: 470853
-  files: 19899
+  code: 2667021
+  comments: 728261
+  blanks: 468494
+  files: 19804
 ---
 date: "2026-11-23"
 repo:
